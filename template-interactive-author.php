@@ -44,9 +44,9 @@ Template Name: Interactive Author Template
                 </select>
                 <select id="book-price-filter">
                     <option value="">Price Range</option>
-                    <option value="low">$0 - $20</option>
-                    <option value="medium">$20 - $50</option>
-                    <option value="high">$50+</option>
+                    <option value="low">R0 - R20</option>
+                    <option value="medium">R20 - R50</option>
+                    <option value="high">R50+</option>
                 </select>
             </div>
             
