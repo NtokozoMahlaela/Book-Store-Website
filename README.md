@@ -102,3 +102,9 @@ Use Advanced Custom Fields to add:
 - PHP 7.4+
 - jQuery (included with WordPress)
 
+## How to Run
+
+## Clone on VS Code 
+https://github.com/NtokozoMahlaela/Book-Store-Website.git
+
+Then run the different HTML files to preview
